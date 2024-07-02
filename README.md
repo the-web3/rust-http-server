@@ -24,6 +24,10 @@ parent:
 
 rust-http-server is a practical code of Rust http service
 
+## Env
+```bash
+source .env
+```
 
 ## Migrate database
 
